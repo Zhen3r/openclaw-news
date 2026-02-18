@@ -1,0 +1,11 @@
+site_name: News Aggregator
+site_description: 每日新闻整合 - AI / 科技 / 时政
+site_url: # 填写 GitHub Pages URL，例如 https://username.github.io/news-mkdocs/
+docs_dir: docs
+theme:
+  name: material
+  language: zh
+nav:
+  - 首页: index.md
+  - 整合新闻: aggregated/
+  - 深度分析: deepdive/
